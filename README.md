@@ -31,3 +31,9 @@ Segue abaixo alguns screenshots do projeto:
 ![Hotel Samurai](./assets/img/screenshots/all-01.png)
 ![Hotel Samurai](./assets/img/screenshots/all-02.png)
 ![Hotel Samurai](./assets/img/screenshots/available-01.png)
+
+## Professor
+
+Carlos Eduardo
+
+Website: [https://carloseduardo.dev](https://carloseduardo.dev)
